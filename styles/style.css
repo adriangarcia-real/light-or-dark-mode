@@ -12,6 +12,11 @@ body {
   align-items: center;
 }
 
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
 h1 {
   font-size: 60px;
   font-weight: 800;
