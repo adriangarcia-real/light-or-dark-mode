@@ -23,6 +23,10 @@ h1 {
   margin: 20px auto;
 }
 
+img {
+  cursor: pointer;
+}
+
 p {
   font-size: 20px;
   margin-bottom: 40px;
