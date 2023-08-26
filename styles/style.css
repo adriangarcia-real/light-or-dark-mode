@@ -7,9 +7,15 @@ body {
   padding: 0 150px;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+}
+
 h1 {
   font-size: 60px;
   font-weight: 800;
+  margin: 20px auto;
 }
 
 p {
